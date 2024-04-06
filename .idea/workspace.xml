@@ -67,16 +67,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FunctionDefaultParameterKt">
+  <component name="RunManager" selected="Kotlin.FunctionNamedArgumentKt">
     <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
-      <module name="belajar-kotlin-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoWhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhileLoopKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,6 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FunctionNamedArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionNamedArgumentKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FunctionParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionParameterKt" />
       <module name="belajar-kotlin-dasar" />
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionNamedArgumentKt" />
         <item itemvalue="Kotlin.FunctionDefaultParameterKt" />
         <item itemvalue="Kotlin.FunctionParameterKt" />
         <item itemvalue="Kotlin.FunctionKt" />
         <item itemvalue="Kotlin.BreakContinueKt" />
-        <item itemvalue="Kotlin.DoWhileLoopKt" />
       </list>
     </recent_temporary>
   </component>
