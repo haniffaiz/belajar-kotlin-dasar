@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="operasi perbandingan">
-      <change afterPath="$PROJECT_DIR$/src/OperasiBoolean.kt" afterDir="false" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="if expression">
+      <change afterPath="$PROJECT_DIR$/src/WhenExpression.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,7 @@
     "Kotlin.ArrayKt.executor": "Run",
     "Kotlin.BooleanKt.executor": "Run",
     "Kotlin.HelloWorldKt.executor": "Run",
+    "Kotlin.IfExpressionKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.MathOperatorKt.executor": "Run",
     "Kotlin.NumberKt.executor": "Run",
@@ -49,6 +50,7 @@
     "Kotlin.RangeKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
     "Kotlin.VariableKt.executor": "Run",
+    "Kotlin.WhenExpressionKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -59,7 +61,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.IfExpressionKt">
+  <component name="RunManager" selected="Kotlin.WhenExpressionKt">
     <configuration name="IfExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IfExpressionKt" />
       <module name="belajar-kotlin-dasar" />
@@ -88,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RangeKt" />
+    <configuration name="WhenExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenExpressionKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhenExpressionKt" />
         <item itemvalue="Kotlin.IfExpressionKt" />
         <item itemvalue="Kotlin.OperasiBooleanKt" />
         <item itemvalue="Kotlin.OperasiPerbandinganKt" />
         <item itemvalue="Kotlin.MathOperatorKt" />
-        <item itemvalue="Kotlin.RangeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +211,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712412771494</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="operasi boolean">
+      <option name="closed" value="true" />
+      <created>1712413053108</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712413053108</updated>
+    </task>
+    <task id="LOCAL-00013" summary="if expression">
+      <option name="closed" value="true" />
+      <created>1712413236391</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712413236391</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,6 +242,8 @@
     <MESSAGE value="tipe data range" />
     <MESSAGE value="math operator" />
     <MESSAGE value="operasi perbandingan" />
-    <option name="LAST_COMMIT_MESSAGE" value="operasi perbandingan" />
+    <MESSAGE value="operasi boolean" />
+    <MESSAGE value="if expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="if expression" />
   </component>
 </project>
