@@ -11,9 +11,9 @@ fun main() {
     var price: Long = 9000_000_000L
     println(price)
 
-    var priceInt: Int = price.toInt()
-    println(priceInt)
-
-    var doubleBinary: Double = binary.toDouble()
-    println(doubleBinary)
+//    var priceInt: Int = price.toInt()
+//    println(priceInt)
+//
+//    var doubleBinary: Double = binary.toDouble()
+//    println(doubleBinary)
 }
