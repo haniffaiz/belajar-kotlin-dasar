@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="function parameter">
-      <change afterPath="$PROJECT_DIR$/src/FunctionDefaultParameter.kt" afterDir="false" />
-    </list>
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="function named parameter / argument" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +40,9 @@
     "Kotlin.BreakeContinueKt.executor": "Run",
     "Kotlin.DoWhileLoopKt.executor": "Run",
     "Kotlin.ForLoopKt.executor": "Run",
+    "Kotlin.FunctionDefaultParameterKt.executor": "Run",
     "Kotlin.FunctionKt.executor": "Run",
+    "Kotlin.FunctionNamedArgumentKt.executor": "Run",
     "Kotlin.FunctionParameterKt.executor": "Run",
     "Kotlin.HelloWorldKt.executor": "Run",
     "Kotlin.IfExpressionKt.executor": "Run",
@@ -289,7 +289,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712417586464</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="function default parameter / argument">
+      <option name="closed" value="true" />
+      <created>1712417861448</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1712417861448</updated>
+    </task>
+    <task id="LOCAL-00022" summary="function named parameter / argument">
+      <option name="closed" value="true" />
+      <created>1712418068274</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1712418068274</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -313,6 +329,8 @@
     <MESSAGE value="break dan continue" />
     <MESSAGE value="function" />
     <MESSAGE value="function parameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="function parameter" />
+    <MESSAGE value="function default parameter / argument" />
+    <MESSAGE value="function named parameter / argument" />
+    <option name="LAST_COMMIT_MESSAGE" value="function named parameter / argument" />
   </component>
 </project>
