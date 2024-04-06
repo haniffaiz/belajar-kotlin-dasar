@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="function named parameter / argument" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="unit returning function">
+      <change afterPath="$PROJECT_DIR$/src/FunctionReturnType.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -67,14 +69,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FunctionNamedArgumentKt">
-    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
-      <module name="belajar-kotlin-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.FunctionReturnTypeKt">
     <configuration name="FunctionDefaultParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionDefaultParameterKt" />
       <module name="belajar-kotlin-dasar" />
@@ -103,13 +98,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FunctionReturnTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionReturnTypeKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionReturnTypeKt" />
         <item itemvalue="Kotlin.FunctionNamedArgumentKt" />
         <item itemvalue="Kotlin.FunctionDefaultParameterKt" />
         <item itemvalue="Kotlin.FunctionParameterKt" />
         <item itemvalue="Kotlin.FunctionKt" />
-        <item itemvalue="Kotlin.BreakContinueKt" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +307,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712418068274</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="unit returning function">
+      <option name="closed" value="true" />
+      <created>1712418341155</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1712418341155</updated>
+    </task>
+    <task id="LOCAL-00024" summary="unit returning function">
+      <option name="closed" value="true" />
+      <created>1712418363193</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1712418363193</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -331,6 +349,7 @@
     <MESSAGE value="function parameter" />
     <MESSAGE value="function default parameter / argument" />
     <MESSAGE value="function named parameter / argument" />
-    <option name="LAST_COMMIT_MESSAGE" value="function named parameter / argument" />
+    <MESSAGE value="unit returning function" />
+    <option name="LAST_COMMIT_MESSAGE" value="unit returning function" />
   </component>
 </project>
