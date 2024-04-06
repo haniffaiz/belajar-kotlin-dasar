@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="do while loops">
-      <change afterPath="$PROJECT_DIR$/src/BreakeContinue.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="function">
+      <change afterPath="$PROJECT_DIR$/src/FunctionParameter.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     "Kotlin.BreakeContinueKt.executor": "Run",
     "Kotlin.DoWhileLoopKt.executor": "Run",
     "Kotlin.ForLoopKt.executor": "Run",
+    "Kotlin.FunctionKt.executor": "Run",
     "Kotlin.HelloWorldKt.executor": "Run",
     "Kotlin.IfExpressionKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
@@ -57,6 +57,7 @@
     "Kotlin.WhileLoopKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/hanif/development/kotlin/belajar-kotlin-dasar/src/Main.kt",
@@ -65,7 +66,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FunctionKt">
+  <component name="RunManager" selected="Kotlin.FunctionParameterKt">
     <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
       <module name="belajar-kotlin-dasar" />
@@ -80,15 +81,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoopKt" />
+    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionKt" />
+    <configuration name="FunctionParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionParameterKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionParameterKt" />
         <item itemvalue="Kotlin.FunctionKt" />
         <item itemvalue="Kotlin.BreakContinueKt" />
         <item itemvalue="Kotlin.DoWhileLoopKt" />
         <item itemvalue="Kotlin.WhileLoopKt" />
-        <item itemvalue="Kotlin.ForLoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +264,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712416883340</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="break dan continue">
+      <option name="closed" value="true" />
+      <created>1712417138339</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712417138339</updated>
+    </task>
+    <task id="LOCAL-00019" summary="function">
+      <option name="closed" value="true" />
+      <created>1712417334895</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1712417334895</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,6 +301,8 @@
     <MESSAGE value="for loops" />
     <MESSAGE value="while loops" />
     <MESSAGE value="do while loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="do while loops" />
+    <MESSAGE value="break dan continue" />
+    <MESSAGE value="function" />
+    <option name="LAST_COMMIT_MESSAGE" value="function" />
   </component>
 </project>
