@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="extension function">
-      <change afterPath="$PROJECT_DIR$/src/FunctionInfixNotation.kt" afterDir="false" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="function infix notation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +44,7 @@
     "Kotlin.ExtensionFunctionKt.executor": "Run",
     "Kotlin.ForLoopKt.executor": "Run",
     "Kotlin.FunctionDefaultParameterKt.executor": "Run",
+    "Kotlin.FunctionInfixNotationKt.executor": "Run",
     "Kotlin.FunctionKt.executor": "Run",
     "Kotlin.FunctionNamedArgumentKt.executor": "Run",
     "Kotlin.FunctionParameterKt.executor": "Run",
@@ -355,12 +355,19 @@
       <option name="project" value="LOCAL" />
       <updated>1712419384807</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="function infix notation">
+      <option name="closed" value="true" />
+      <created>1712430192966</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1712430192966</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="tibe data character" />
     <MESSAGE value="tipe data character" />
     <MESSAGE value="tipe data boolean" />
     <MESSAGE value="tipe data string" />
@@ -385,6 +392,7 @@
     <MESSAGE value="single expression function" />
     <MESSAGE value="function varargs parameter" />
     <MESSAGE value="extension function" />
-    <option name="LAST_COMMIT_MESSAGE" value="extension function" />
+    <MESSAGE value="function infix notation" />
+    <option name="LAST_COMMIT_MESSAGE" value="function infix notation" />
   </component>
 </project>
