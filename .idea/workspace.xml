@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="unit returning function">
-      <change afterPath="$PROJECT_DIR$/src/FunctionReturnType.kt" afterDir="false" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="function return type">
+      <change afterPath="$PROJECT_DIR$/src/SingleExpressionFunction.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -46,6 +46,7 @@
     "Kotlin.FunctionKt.executor": "Run",
     "Kotlin.FunctionNamedArgumentKt.executor": "Run",
     "Kotlin.FunctionParameterKt.executor": "Run",
+    "Kotlin.FunctionReturnTypeKt.executor": "Run",
     "Kotlin.HelloWorldKt.executor": "Run",
     "Kotlin.IfExpressionKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
@@ -69,16 +70,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FunctionReturnTypeKt">
+  <component name="RunManager" selected="Kotlin.SingleExpressionFunctionKt">
     <configuration name="FunctionDefaultParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionDefaultParameterKt" />
-      <module name="belajar-kotlin-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingleExpressionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleExpressionFunctionKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SingleExpressionFunctionKt" />
         <item itemvalue="Kotlin.FunctionReturnTypeKt" />
         <item itemvalue="Kotlin.FunctionNamedArgumentKt" />
         <item itemvalue="Kotlin.FunctionDefaultParameterKt" />
         <item itemvalue="Kotlin.FunctionParameterKt" />
-        <item itemvalue="Kotlin.FunctionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712418363193</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="function return type">
+      <option name="closed" value="true" />
+      <created>1712418542792</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1712418542792</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -350,6 +359,7 @@
     <MESSAGE value="function default parameter / argument" />
     <MESSAGE value="function named parameter / argument" />
     <MESSAGE value="unit returning function" />
-    <option name="LAST_COMMIT_MESSAGE" value="unit returning function" />
+    <MESSAGE value="function return type" />
+    <option name="LAST_COMMIT_MESSAGE" value="function return type" />
   </component>
 </project>
