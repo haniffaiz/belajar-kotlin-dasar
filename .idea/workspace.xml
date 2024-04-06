@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Number.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.kt" afterDir="false" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="tipe data character">
+      <change afterPath="$PROJECT_DIR$/src/Boolean.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,14 @@
     "onboarding.tips.debug.path": "C:/Users/hanif/development/kotlin/belajar-kotlin-dasar/src/Main.kt"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.BooleanKt">
+    <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooleanKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberKt" />
       <module name="belajar-kotlin-dasar" />
@@ -59,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.NumberKt" />
       </list>
     </recent_temporary>
@@ -72,9 +78,38 @@
       <option name="presentableId" value="Default" />
       <updated>1712405836318</updated>
     </task>
+    <task id="LOCAL-00001" summary="tibe data number">
+      <option name="closed" value="true" />
+      <created>1712407053309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712407053309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tibe data character">
+      <option name="closed" value="true" />
+      <created>1712407211197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712407211197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tipe data character">
+      <option name="closed" value="true" />
+      <created>1712407242689</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712407242689</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="tibe data number" />
+    <MESSAGE value="tibe data character" />
+    <MESSAGE value="tipe data character" />
+    <option name="LAST_COMMIT_MESSAGE" value="tipe data character" />
   </component>
 </project>
