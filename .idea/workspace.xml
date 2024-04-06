@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="if expression">
-      <change afterPath="$PROJECT_DIR$/src/WhenExpression.kt" afterDir="false" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="when expression">
+      <change afterPath="$PROJECT_DIR$/src/ForLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Kotlin.ArrayKt.executor": "Run",
     "Kotlin.BooleanKt.executor": "Run",
+    "Kotlin.ForLoopKt.executor": "Run",
     "Kotlin.HelloWorldKt.executor": "Run",
     "Kotlin.IfExpressionKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
@@ -61,16 +62,16 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.WhenExpressionKt">
-    <configuration name="IfExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfExpressionKt" />
+  <component name="RunManager" selected="Kotlin.ForLoopKt">
+    <configuration name="ForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathOperatorKt" />
+    <configuration name="IfExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfExpressionKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForLoopKt" />
         <item itemvalue="Kotlin.WhenExpressionKt" />
         <item itemvalue="Kotlin.IfExpressionKt" />
         <item itemvalue="Kotlin.OperasiBooleanKt" />
         <item itemvalue="Kotlin.OperasiPerbandinganKt" />
-        <item itemvalue="Kotlin.MathOperatorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712413236391</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="when expression">
+      <option name="closed" value="true" />
+      <created>1712414020624</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712414020624</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,6 +253,7 @@
     <MESSAGE value="operasi perbandingan" />
     <MESSAGE value="operasi boolean" />
     <MESSAGE value="if expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="if expression" />
+    <MESSAGE value="when expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="when expression" />
   </component>
 </project>
