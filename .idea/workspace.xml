@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="tipe data string">
-      <change afterPath="$PROJECT_DIR$/src/Variable.kt" afterDir="false" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="variable. mutable dan immutable">
+      <change afterPath="$PROJECT_DIR$/src/Array.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Kotlin.ArrayKt.executor": "Run",
     "Kotlin.BooleanKt.executor": "Run",
     "Kotlin.HelloWorldKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
@@ -51,7 +52,14 @@
     "onboarding.tips.debug.path": "C:/Users/hanif/development/kotlin/belajar-kotlin-dasar/src/Main.kt"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.VariableKt">
+  <component name="RunManager" selected="Kotlin.ArrayKt">
+    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BooleanKt" />
       <module name="belajar-kotlin-dasar" />
@@ -82,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayKt" />
         <item itemvalue="Kotlin.VariableKt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.BooleanKt" />
@@ -138,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712408725997</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="variable. mutable dan immutable">
+      <option name="closed" value="true" />
+      <created>1712409434145</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712409434145</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +165,7 @@
     <MESSAGE value="tipe data character" />
     <MESSAGE value="tipe data boolean" />
     <MESSAGE value="tipe data string" />
-    <option name="LAST_COMMIT_MESSAGE" value="tipe data string" />
+    <MESSAGE value="variable. mutable dan immutable" />
+    <option name="LAST_COMMIT_MESSAGE" value="variable. mutable dan immutable" />
   </component>
 </project>
