@@ -1,4 +1,5 @@
 fun printHello(): Unit{
+    //tidak mengembalikan data
     println("Hello")
 }
 
