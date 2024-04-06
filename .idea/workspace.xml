@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="while loops" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="do while loops">
+      <change afterPath="$PROJECT_DIR$/src/BreakeContinue.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +40,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Kotlin.ArrayKt.executor": "Run",
     "Kotlin.BooleanKt.executor": "Run",
+    "Kotlin.BreakeContinueKt.executor": "Run",
+    "Kotlin.DoWhileLoopKt.executor": "Run",
     "Kotlin.ForLoopKt.executor": "Run",
     "Kotlin.HelloWorldKt.executor": "Run",
     "Kotlin.IfExpressionKt.executor": "Run",
@@ -60,7 +65,14 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.DoWhileLoopKt">
+  <component name="RunManager" selected="Kotlin.BreakContinueKt">
+    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DoWhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoWhileLoopKt" />
       <module name="belajar-kotlin-dasar" />
@@ -70,13 +82,6 @@
     </configuration>
     <configuration name="ForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForLoopKt" />
-      <module name="belajar-kotlin-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IfExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfExpressionKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BreakContinueKt" />
         <item itemvalue="Kotlin.DoWhileLoopKt" />
         <item itemvalue="Kotlin.WhileLoopKt" />
         <item itemvalue="Kotlin.ForLoopKt" />
         <item itemvalue="Kotlin.WhenExpressionKt" />
-        <item itemvalue="Kotlin.IfExpressionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712414754423</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="do while loops">
+      <option name="closed" value="true" />
+      <created>1712416883340</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1712416883340</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -270,6 +283,7 @@
     <MESSAGE value="when expression" />
     <MESSAGE value="for loops" />
     <MESSAGE value="while loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="while loops" />
+    <MESSAGE value="do while loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="do while loops" />
   </component>
 </project>
