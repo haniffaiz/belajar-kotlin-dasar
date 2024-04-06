@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="variable. mutable dan immutable">
-      <change afterPath="$PROJECT_DIR$/src/Array.kt" afterDir="false" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="tipe data array">
+      <change afterPath="$PROJECT_DIR$/src/Range.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,16 +44,20 @@
     "Kotlin.HelloWorldKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.NumberKt.executor": "Run",
+    "Kotlin.RangeKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
     "Kotlin.VariableKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/hanif/development/kotlin/belajar-kotlin-dasar/src/Main.kt"
+    "onboarding.tips.debug.path": "C:/Users/hanif/development/kotlin/belajar-kotlin-dasar/src/Main.kt",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayKt">
+  <component name="RunManager" selected="Kotlin.RangeKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="belajar-kotlin-dasar" />
@@ -67,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberKt" />
+    <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RangeKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RangeKt" />
         <item itemvalue="Kotlin.ArrayKt" />
         <item itemvalue="Kotlin.VariableKt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.BooleanKt" />
-        <item itemvalue="Kotlin.NumberKt" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712409434145</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="tipe data array">
+      <option name="closed" value="true" />
+      <created>1712410175384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712410175384</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,6 +179,7 @@
     <MESSAGE value="tipe data boolean" />
     <MESSAGE value="tipe data string" />
     <MESSAGE value="variable. mutable dan immutable" />
-    <option name="LAST_COMMIT_MESSAGE" value="variable. mutable dan immutable" />
+    <MESSAGE value="tipe data array" />
+    <option name="LAST_COMMIT_MESSAGE" value="tipe data array" />
   </component>
 </project>
