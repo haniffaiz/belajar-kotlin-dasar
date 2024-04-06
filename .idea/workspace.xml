@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="math operator">
-      <change afterPath="$PROJECT_DIR$/src/OperasiPerbandingan.kt" afterDir="false" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="operasi perbandingan">
+      <change afterPath="$PROJECT_DIR$/src/OperasiBoolean.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.MathOperatorKt.executor": "Run",
     "Kotlin.NumberKt.executor": "Run",
+    "Kotlin.OperasiBooleanKt.executor": "Run",
     "Kotlin.OperasiPerbandinganKt.executor": "Run",
     "Kotlin.RangeKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
@@ -57,7 +59,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.OperasiPerbandinganKt">
+  <component name="RunManager" selected="Kotlin.OperasiBooleanKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="belajar-kotlin-dasar" />
@@ -67,6 +69,13 @@
     </configuration>
     <configuration name="MathOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MathOperatorKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperasiBooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiBooleanKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,20 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariableKt" />
-      <module name="belajar-kotlin-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OperasiBooleanKt" />
         <item itemvalue="Kotlin.OperasiPerbandinganKt" />
         <item itemvalue="Kotlin.MathOperatorKt" />
         <item itemvalue="Kotlin.RangeKt" />
         <item itemvalue="Kotlin.ArrayKt" />
-        <item itemvalue="Kotlin.VariableKt" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712412540562</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="operasi perbandingan">
+      <option name="closed" value="true" />
+      <created>1712412771494</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712412771494</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,6 +223,7 @@
     <MESSAGE value="tipe data array" />
     <MESSAGE value="tipe data range" />
     <MESSAGE value="math operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="math operator" />
+    <MESSAGE value="operasi perbandingan" />
+    <option name="LAST_COMMIT_MESSAGE" value="operasi perbandingan" />
   </component>
 </project>
