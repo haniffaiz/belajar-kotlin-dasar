@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="return if and when">
-      <change afterPath="$PROJECT_DIR$/src/RecursiveFunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="recursive function">
+      <change afterPath="$PROJECT_DIR$/src/TailRecursiveFunction.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
     "Kotlin.ReturnIfWhenKt.executor": "Run",
     "Kotlin.SingleExpressionFunctionKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
+    "Kotlin.TailRecursiveFunctionKt.executor": "Run",
     "Kotlin.VariableKt.executor": "Run",
     "Kotlin.WhenExpressionKt.executor": "Run",
     "Kotlin.WhileLoopKt.executor": "Run",
@@ -79,16 +79,9 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.RecursiveFunctionKt">
+  <component name="RunManager" selected="Kotlin.TailRecursiveFunctionKt">
     <configuration name="FunctionInfixNotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionInfixNotationKt" />
-      <module name="belajar-kotlin-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionVarargsParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionVarargsParameterKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,13 +108,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TailRecursiveFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TailRecursiveFunctionKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TailRecursiveFunctionKt" />
         <item itemvalue="Kotlin.RecursiveFunctionKt" />
         <item itemvalue="Kotlin.ReturnIfWhenKt" />
         <item itemvalue="Kotlin.FunctionInfixNotationKt" />
         <item itemvalue="Kotlin.SingleExpressionFunctionKt" />
-        <item itemvalue="Kotlin.FunctionVarargsParameterKt" />
       </list>
     </recent_temporary>
   </component>
@@ -382,12 +382,19 @@
       <option name="project" value="LOCAL" />
       <updated>1712430686197</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="recursive function">
+      <option name="closed" value="true" />
+      <created>1712431013304</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1712431013304</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="tipe data string" />
     <MESSAGE value="variable. mutable dan immutable" />
     <MESSAGE value="tipe data array" />
     <MESSAGE value="tipe data range" />
@@ -412,6 +419,7 @@
     <MESSAGE value="function infix notation" />
     <MESSAGE value="function scope" />
     <MESSAGE value="return if and when" />
-    <option name="LAST_COMMIT_MESSAGE" value="return if and when" />
+    <MESSAGE value="recursive function" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursive function" />
   </component>
 </project>
