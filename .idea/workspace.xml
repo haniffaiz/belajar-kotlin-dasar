@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="function infix notation">
+    <list default="true" id="a8a265dd-2ece-41bb-b3aa-e5bbe8409b5e" name="Changes" comment="function scope">
+      <change afterPath="$PROJECT_DIR$/src/ReturnIfWhen.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +59,7 @@
     "Kotlin.OperasiBooleanKt.executor": "Run",
     "Kotlin.OperasiPerbandinganKt.executor": "Run",
     "Kotlin.RangeKt.executor": "Run",
+    "Kotlin.ReturnIfWhenKt.executor": "Run",
     "Kotlin.SingleExpressionFunctionKt.executor": "Run",
     "Kotlin.StringKt.executor": "Run",
     "Kotlin.VariableKt.executor": "Run",
@@ -76,16 +78,9 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FunctionInfixNotationKt">
+  <component name="RunManager" selected="Kotlin.ReturnIfWhenKt">
     <configuration name="FunctionInfixNotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionInfixNotationKt" />
-      <module name="belajar-kotlin-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionNamedArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionNamedArgumentKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,6 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReturnIfWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnIfWhenKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SingleExpressionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SingleExpressionFunctionKt" />
       <module name="belajar-kotlin-dasar" />
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ReturnIfWhenKt" />
         <item itemvalue="Kotlin.FunctionInfixNotationKt" />
         <item itemvalue="Kotlin.SingleExpressionFunctionKt" />
         <item itemvalue="Kotlin.FunctionVarargsParameterKt" />
         <item itemvalue="Kotlin.FunctionReturnTypeKt" />
-        <item itemvalue="Kotlin.FunctionNamedArgumentKt" />
       </list>
     </recent_temporary>
   </component>
@@ -363,12 +365,19 @@
       <option name="project" value="LOCAL" />
       <updated>1712430192966</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="function scope">
+      <option name="closed" value="true" />
+      <created>1712430402448</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1712430402448</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="tipe data character" />
     <MESSAGE value="tipe data boolean" />
     <MESSAGE value="tipe data string" />
     <MESSAGE value="variable. mutable dan immutable" />
@@ -393,6 +402,7 @@
     <MESSAGE value="function varargs parameter" />
     <MESSAGE value="extension function" />
     <MESSAGE value="function infix notation" />
-    <option name="LAST_COMMIT_MESSAGE" value="function infix notation" />
+    <MESSAGE value="function scope" />
+    <option name="LAST_COMMIT_MESSAGE" value="function scope" />
   </component>
 </project>
