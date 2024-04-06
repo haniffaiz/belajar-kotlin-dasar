@@ -59,9 +59,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.OperasiBooleanKt">
-    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+  <component name="RunManager" selected="Kotlin.IfExpressionKt">
+    <configuration name="IfExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfExpressionKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.IfExpressionKt" />
         <item itemvalue="Kotlin.OperasiBooleanKt" />
         <item itemvalue="Kotlin.OperasiPerbandinganKt" />
         <item itemvalue="Kotlin.MathOperatorKt" />
         <item itemvalue="Kotlin.RangeKt" />
-        <item itemvalue="Kotlin.ArrayKt" />
       </list>
     </recent_temporary>
   </component>
