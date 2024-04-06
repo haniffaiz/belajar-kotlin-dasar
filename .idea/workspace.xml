@@ -70,7 +70,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.SingleExpressionFunctionKt">
+  <component name="RunManager" selected="Kotlin.FunctionVarargsParameterKt">
     <configuration name="FunctionDefaultParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionDefaultParameterKt" />
       <module name="belajar-kotlin-dasar" />
@@ -85,15 +85,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionParameterKt" />
+    <configuration name="FunctionReturnTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionReturnTypeKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionReturnTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionReturnTypeKt" />
+    <configuration name="FunctionVarargsParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionVarargsParameterKt" />
       <module name="belajar-kotlin-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionVarargsParameterKt" />
         <item itemvalue="Kotlin.SingleExpressionFunctionKt" />
         <item itemvalue="Kotlin.FunctionReturnTypeKt" />
         <item itemvalue="Kotlin.FunctionNamedArgumentKt" />
         <item itemvalue="Kotlin.FunctionDefaultParameterKt" />
-        <item itemvalue="Kotlin.FunctionParameterKt" />
       </list>
     </recent_temporary>
   </component>
